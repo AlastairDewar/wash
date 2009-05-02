@@ -45,15 +45,15 @@
 					<div id="manage_services" class="element atStart">
 						<ul>
 							<li><a href="<?echo site_url("service/backup");?>" class="backup">Backup</a></li>
-							<li><a href="#" class="email">E-mail</a></li>
-							<li><a href="#" class="ftp">FTP</a></li>
-							<li><a href="#" class="multimedia">Multimedia</a></li>
-							<li><a href="#" class="parent">Parental Controls</a></li>
-							<li><a href="#" class="folder">Shared Folders</a></li>
-							<li><a href="#" class="printer">Shared Printers</a></li>
-							<li><a href="#" class="torrents">Torrents</a></li>
-							<li><a href="#" class="tv">TV</a></li>
-							<li><a href="#" class="websites">Websites</a></li>
+							<li><a href="<?echo site_url("service/email");?>" class="email">E-mail</a></li>
+							<li><a href="<?echo site_url("service/ftp");?>" class="ftp">FTP</a></li>
+							<li><a href="<?echo site_url("service/multimedia");?>" class="multimedia">Multimedia</a></li>
+							<li><a href="<?echo site_url("service/supervision");?>" class="parent">Parental Controls</a></li>
+							<li><a href="<?echo site_url("service/folders");?>" class="folder">Shared Folders</a></li>
+							<li><a href="<?echo site_url("service/printers");?>" class="printer">Shared Printers</a></li>
+							<li><a href="<?echo site_url("service/torrents");?>" class="torrents">Torrents</a></li>
+							<li><a href="<?echo site_url("service/tv");?>" class="tv">TV</a></li>
+							<li><a href="<?echo site_url("service/websites");?>" class="websites">Websites</a></li>
 						</ul>
 					</div> <!-- end manage_services -->
 			
