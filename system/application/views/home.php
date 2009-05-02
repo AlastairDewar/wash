@@ -60,12 +60,12 @@
 					<h2 class="toggler atStart">Security</h2>
 					<div id="security" class="element atStart">
 						<ul>
-							<li><a href="#" class="virus">Anti-Virus</a></li>
-							<li><a href="#" class="encrypt">Encryption</a></li>
-							<li><a href="#" class="firewall">Firewall</a></li>
-							<li><a href="#" class="password">Password Manager</a></li>
-							<li><a href="#" class="privacy">Privacy</a></li>
-							<li><a href="#" class="users">Users &amp; Groups</a></li>
+							<li><a href="<?echo site_url("security/virus");?>" class="virus">Anti-Virus</a></li>
+							<li><a href="<?echo site_url("security/encryption");?>" class="encrypt">Encryption</a></li>
+							<li><a href="<?echo site_url("security/firewall");?>" class="firewall">Firewall</a></li>
+							<li><a href="<?echo site_url("security/password");?>" class="password">Password Manager</a></li>
+							<li><a href="<?echo site_url("security/privacy");?>" class="privacy">Privacy</a></li>
+							<li><a href="<?echo site_url("security/users");?>" class="users">Users &amp; Groups</a></li>
 						</ul>
 					</div> <!-- end security -->
 					
