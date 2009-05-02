@@ -2,12 +2,12 @@
 	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
 	<head>
-		<meta http-equiv="author" content="Brett Alton" />
+		<meta http-equiv="author" content="Alastair Dewar" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta http-equiv="content-language" content="en" />
 		<meta http-equiv="description" content="" />
 		<meta http-equiv="keywords" content="" />
-		<title>Open Home Server</title>
+		<title>Dewar Server</title>
 		<link rel="stylesheet" type="text/css" media="screen" href="./css/screen.css" />
 		<link rel="stylesheet" type="text/css" media="screen" href="./css/slimbox.css"  />
 		<script type="text/javascript" src="./js/mootools.js"></script>
@@ -33,7 +33,7 @@
 	<body>
 		<div id="container">
 			<div id="header">
-				<h1>Open Home Server</h1>
+				<h1>Dewar Server</h1>
 			</div> <!-- end header -->
 			<div id="menu">
 				<div id="accordion">
@@ -44,7 +44,7 @@
 					<h2 class="toggler atStart">Manage Services</h2>
 					<div id="manage_services" class="element atStart">
 						<ul>
-							<li><a href="#" class="backup">Backup</a></li>
+							<li><a href="<?echo site_url("service/backup");?>" class="backup">Backup</a></li>
 							<li><a href="#" class="email">E-mail</a></li>
 							<li><a href="#" class="ftp">FTP</a></li>
 							<li><a href="#" class="multimedia">Multimedia</a></li>
@@ -84,7 +84,7 @@
 				</div>
 			</div> <!-- end menu -->
 			<div id="content">
-				<h2>Welcome</h2>
+				<h2>Welcome to the Dewar Home Server</h2>
 				<p>To get started, click a link on the menu to the left.</p>
 			</div> <!-- end content -->
 			<div id="footer">
