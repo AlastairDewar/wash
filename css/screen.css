@@ -28,6 +28,7 @@ body{
 #header h1{
 	font-size: 2em;
 	text-transform: uppercase;
+	margin-top: 15px;
 }
 
 #menu{
@@ -80,6 +81,7 @@ body{
 	width: 400px;
 	padding: 5px;
 	margin-top: 10px;
+	padding-top: 15px;
 	border-top: 1px solid #252625;
 }
 #footer *{
@@ -186,5 +188,9 @@ body{
 }
 .websites{
 	background: url('./images/icons/silk/16/world.png') no-repeat 5px 50%;
+}
+
+#content p{
+	margin:10px;
 }
 

@@ -89,7 +89,7 @@
 			</div> <!-- end content -->
 			<div id="footer">
 				<p>System by <a href="http://www.alastairdewar.co.uk">Alastair Dewar</a>, Theme by <a href="http://www.brettalton.com">Brett Alton</a>.</p>
-				<p>Copyright &copy; 2007, 2008 <a href="#">WASH Project</a>. All rights reserved.</p>
+				<p>Copyright &copy; 2007, 2008 <a href="http://github.com/AlastairDewar/wash/tree/master">WASH Project</a>. All rights reserved.</p>
 			</div> <!-- end footer -->
 		</div> <!-- end container -->
 	</body>
