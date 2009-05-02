@@ -7,7 +7,7 @@
 		<meta http-equiv="content-language" content="en" />
 		<meta http-equiv="description" content="" />
 		<meta http-equiv="keywords" content="" />
-		<title>Dewar Server</title>
+		<title>WASH Server</title>
 		<link rel="stylesheet" type="text/css" media="screen" href="./css/screen.css" />
 		<link rel="stylesheet" type="text/css" media="screen" href="./css/slimbox.css"  />
 		<script type="text/javascript" src="./js/mootools.js"></script>
@@ -33,7 +33,7 @@
 	<body>
 		<div id="container">
 			<div id="header">
-				<h1>Dewar Server</h1>
+				<h1>WASH Server</h1>
 			</div> <!-- end header -->
 			<div id="menu">
 				<div id="accordion">
@@ -88,8 +88,8 @@
 				<p>To get started, click a link on the menu to the left.</p>
 			</div> <!-- end content -->
 			<div id="footer">
-				<p>Theme by <a href="http://www.brettalton.com">Brett Alton</a>, licensed under the <a href="http://www.gnu.org/licenses/gpl.html">GPLv2</a>.</p>
-				<p>Copyright &copy; 2007, 2008 <a href="#">Open Home Server Project</a>. All rights reserved.</p>
+				<p>System by <a href="http://www.alastairdewar.co.uk">Alastair Dewar</a>, Theme by <a href="http://www.brettalton.com">Brett Alton</a>.</p>
+				<p>Copyright &copy; 2007, 2008 <a href="#">WASH Project</a>. All rights reserved.</p>
 			</div> <!-- end footer -->
 		</div> <!-- end container -->
 	</body>
