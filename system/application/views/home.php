@@ -72,13 +72,13 @@
 					<h2 class="toggler atStart">System Information</h2>
 					<div id="system_information" class="element atStart">
 						<ul>
-							<li><a href="#" class="diagnostics">Diagnostics &amp; Health</a></li>
-							<li><a href="#" class="information">General Information</a></li>
-							<li><a href="#" class="hdd">Hard Drive Disks</a></li>
-							<li><a href="#" class="networking">Networking</a></li>
-							<li><a href="#" class="log">Logs</a></li>
-							<li><a href="#" class="settings">Settings</a></li>
-							<li><a href="#" class="statistics">Statistics</a></li>
+							<li><a href="<?echo site_url("system/diagnostics");?>" class="diagnostics">Diagnostics &amp; Health</a></li>
+							<li><a href="<?echo site_url("system/information");?>" class="information">General Information</a></li>
+							<li><a href="<?echo site_url("system/hdd");?>" class="hdd">Hard Drive Disks</a></li>
+							<li><a href="<?echo site_url("system/networking");?>" class="networking">Networking</a></li>
+							<li><a href="<?echo site_url("system/log");?>" class="log">Logs</a></li>
+							<li><a href="<?echo site_url("system/settings");?>" class="settings">Settings</a></li>
+							<li><a href="<?echo site_url("system/statistics");?>" class="statistics">Statistics</a></li>
 						</ul>
 					</div> <!-- end system_information -->
 				</div>
