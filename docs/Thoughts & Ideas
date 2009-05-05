@@ -1,3 +1,9 @@
 Would be cool, if there was support for drop in plugins. Like, you could paste a svn module in or something.
 
 Gonna need to find some one of checking for requirements and setting up anything that needs setup. But I'd rather avdoid it.
+
+Thought of a nice new feature, being able to install apps remotelty. It searches the respotistory, if theres a lack of results, it requests the repository address/debian package/whatever.
+
+If the user goes into the backup section and theres nothing setup, give them the option of install rsync and entering the details of backups or whatever
+
+Can we use system user credentials
