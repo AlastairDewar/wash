@@ -8,10 +8,10 @@
 		<meta http-equiv="description" content="" />
 		<meta http-equiv="keywords" content="" />
 		<title>WASH Server</title>
-		<link rel="stylesheet" type="text/css" media="screen" href="./css/screen.css" />
-		<link rel="stylesheet" type="text/css" media="screen" href="./css/slimbox.css"  />
-		<script type="text/javascript" src="./js/mootools.js"></script>
-		<script type="text/javascript" src="./js/slimbox.js"></script>
+		<link rel="stylesheet" type="text/css" media="screen" href="<?echo site_url("/css/screen.css");?>" />
+		<link rel="stylesheet" type="text/css" media="screen" href="<?echo site_url("/css/slimbox.css");?>"  />
+		<script type="text/javascript" src="<?echo site_url("/js/mootools.js");?>"></script>
+		<script type="text/javascript" src="<?echo site_url("/js/slimbox.js");?>"></script>
 		<script type="text/javascript">
 			window.addEvent('domready', function(){
 				// initiate Accordian from mootools

@@ -6,4 +6,7 @@ Thought of a nice new feature, being able to install apps remotelty. It searches
 
 If the user goes into the backup section and theres nothing setup, give them the option of install rsync and entering the details of backups or whatever
 
-Can we use system user credentials
+Can we use system user credentials - See php5-pam-auth
+
+# Get Hostname
+sudo /bin/hostname

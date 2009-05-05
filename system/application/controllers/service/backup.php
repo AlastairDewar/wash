@@ -9,13 +9,17 @@ class Backup extends Controller {
 	
 	function index()
 	{
-
+		if($this->requirements_met())
+		{
+		
+		}
 	}
 
 	function requirements_met()
 	{
 		$requirements_met = false;
-		if(system("dpkg -l | grep sbackup"))
+		$check = exec("dpkg -l | grep sbackup");
+		if($check != null)
 		{
 			$requirements_met = true;
 		}
