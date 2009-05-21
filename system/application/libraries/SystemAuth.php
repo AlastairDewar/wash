@@ -44,7 +44,7 @@ class SystemAuth {
 	}
     }
 
-    funtion login($username, $password)
+    function login($username, $password)
     {
 	if($username == null){$username = $this->user_name;}
 	if($password == null){$password = $this->user_password;}
@@ -55,6 +55,21 @@ class SystemAuth {
 		#$this->load->view('', $error);
 	}
     }
+    
+    function change_password()
+    {
+    	
+    }
+    
+    function login()
+    {
+    	
+    }
+    
+    function logout()
+    {
+    	
+    }
+    
 }
-
 ?>
